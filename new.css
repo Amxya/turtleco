@@ -1,0 +1,36 @@
+@charset "utf-8";
+.container-fluid .container #carouselExampleIndicators1 {
+    background-color: #000000;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #000000;
+}
+h1 center br {
+    background-color: #000000;
+}
+.container-fluid .container footer {
+    background-color: #FAFAFA;
+}
+
+
+
+.card.col-md-4 .card-body .card-text {
+}
+
+.container-fluid .container #accordion2 {
+    background-color: #000000;
+    color: #000000;
+}
+body {
+    background-color: #FDFDFD;
+    color: #000000;
+}
+
+html {
+    background-color: #000000;
+}
+head {
+    background-color: #000000;
+}
+.container-fluid .container .container {
+}
